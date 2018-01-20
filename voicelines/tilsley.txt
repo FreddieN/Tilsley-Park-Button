@@ -1,0 +1,5 @@
+Welcome to Tilsley Park. Do you need assistance? If so press the button two times.
+OK, hold on, let me call someone for you
+Please wait. Assistance is coming.
+I'm sorry, I wasn't able to contact an assistant. Please try again later.
+System Reset.
