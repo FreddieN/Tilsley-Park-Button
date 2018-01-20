@@ -3,3 +3,13 @@ OK, hold on, let me call someone for you
 Please wait. Assistance is coming.
 I'm sorry, I wasn't able to contact an assistant. Please try again later.
 System Reset.
+
+abingdon light pink: 250 0 250
+complimentary: 225 0 150
+<Response>
+<Play>
+https://raw.githubusercontent.com/FreddieN/Tilsley-Park-Button/master/voicelines/someoneatreception.mp3
+</play>
+<Redirect/>
+</Response>
+https://raw.githubusercontent.com/FreddieN/Tilsley-Park-Button/master/voicelines/someoneatreception.mp3
